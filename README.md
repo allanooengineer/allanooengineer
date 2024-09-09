@@ -3,7 +3,7 @@
 - Class:BSEEE 2.1
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning OOP
-- 💞️ I’m looking to collaborate with fellow engineering
+- 💞️ I’m looking to collaborate with my fellow engineering students
 - 📫 How to reach me allan.ruigu@strathmore.edu
 - 😄 Pronouns: Male lol
 - ⚡ Fun fact: It took 20 years to build one pyramid in Ancient Egypt
